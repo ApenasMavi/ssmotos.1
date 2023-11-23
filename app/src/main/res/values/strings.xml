@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SSmotos</string>
+    <string name="nome">nome</string>
+    <string name="login">login</string>
+    <string name="senha">senha</string>
+    <string name="confirmarsenha">confirmarsenha</string>
+    <string name="cadastro">cadastro</string>
+    <string name="login_erro">login_erro</string>
+    <string name="senha_erro">senha_erro</string>
+</resources>
